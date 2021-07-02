@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> St Jude charity </title>
+
+<style>
+
+body {
+  background-colour: skyblue;
+}
+
+.DivStyle {
+text-align: center;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<div class="DivStyle">
+
+<h1> Their Goal </h1>
+<p> The mission of St. Jude Children's Research Hospital is to <br>advance cures, and means of prevention, for pediatric <br>catastrophic diseases through research and treatment. Consistent <br>with the vision of our founder Danny Thomas, no child is denied <br>treatment based on race, religion or a family's ability to pay. </p>
+
+<p> For more information follow this link: </p>
+<a href="https://www.stjude.org/">St Jude Children's Research Hospital</a>
+
+<P> <img src="https://mma.prnewswire.com/media/1089384/St_Jude_Childrens_Research_Hospital.jpg?p=publish&w=800" alt="St Jude Charity Logo" width="800" height="323"> </p>
+
+</div>
+
+</body>
+
+</html>
